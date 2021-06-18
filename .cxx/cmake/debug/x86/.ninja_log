@@ -1,0 +1,7 @@
+# ninja log v5
+1	12262	1623972328	CMakeFiles/native-lib.dir/native-lib.cpp.o	71fa0d0c0b9a21a8
+12268	13549	1623972329	/Users/meray/AndroidStudioProjects/fclient/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	930ffc08761ce7cb
+6	12228	1623974096	CMakeFiles/native-lib.dir/native-lib.cpp.o	71fa0d0c0b9a21a8
+12232	15030	1623974097	/Users/meray/AndroidStudioProjects/fclient/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	930ffc08761ce7cb
+8	10670	1623976305	CMakeFiles/native-lib.dir/native-lib.cpp.o	71fa0d0c0b9a21a8
+10672	13443	1623976307	/Users/meray/AndroidStudioProjects/fclient/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	930ffc08761ce7cb

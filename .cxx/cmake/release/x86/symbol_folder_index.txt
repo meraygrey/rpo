@@ -1,0 +1,1 @@
+/Users/meray/AndroidStudioProjects/fclient/app/build/intermediates/cmake/release/obj/x86
